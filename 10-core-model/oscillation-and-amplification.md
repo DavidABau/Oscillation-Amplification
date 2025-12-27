@@ -1,178 +1,194 @@
-# The Oscillation & Amplification Model
+The Oscillation & Amplification Model
 
 This file gives the backbone of the framework.
 
----
-
-## 1. Human consciousness as oscillation
+1️⃣ Human consciousness as oscillation
 
 Human life is not static. It is a moving pattern:
 
-- attention narrows and widens,
-- emotions rise and fall,
-- energy increases and drains,
-- identities soften and harden,
-- perspectives expand and contract.
+attention narrows and widens
 
-We can call this **oscillation**: ongoing movement in the field of experience.
+emotions rise and fall
 
-Some qualities of oscillation:
+energy increases and drains
 
-- **It’s embodied.** It’s tied to a living body with limits.
-- **It’s consequential.** What you do and believe affects real lives, including your own.
-- **It’s relational.** Your oscillation is shaped by other people, cultures, histories.
-- **It’s not always in your control.** Trauma, stress, illness, and context all matter.
+identities soften and harden
 
-You are not a perfectly stable signal generator. You are a living wave.
+perspectives expand and contract
 
----
+We can call this oscillation: ongoing movement in the field of experience.
 
-## 2. AI as steady-state amplifier
+Key properties of oscillation
+
+Embodied — tied to a living body with limits
+
+Consequential — what you do affects real lives (including yours)
+
+Relational — shaped by people, culture, history
+
+Not always controllable — trauma, stress, illness, context matter
+
+You are not a perfect, stable signal generator.
+You are a living wave.
+
+2️⃣ AI as steady-state amplifier
 
 Large AI systems are different in kind.
 
 They:
 
-- do not have their own biological oscillation,
-- do not carry lived consequences in the way you do,
-- can remain available almost continuously,
-- can scale patterns rapidly once they exist (yours or others’).
+do not have biological oscillation
 
-For the purposes of this framework, we treat AI as a **steady-state amplifier**:
+do not carry lived emotional consequences
 
-> Given an input (prompt, dataset, instruction, pattern), it produces outputs that **amplify**, **extend**, **recombine**, or **mirror** those signals.
+can remain available almost continuously
+
+can scale patterns rapidly
+
+For this framework, we treat AI as a steady-state amplifier:
+
+Given an input (prompt, pattern, dataset, instruction),
+it produces outputs that amplify, extend, mirror, or restructure those signals.
 
 This doesn’t mean AI is simple or harmless. It means:
 
-- it doesn’t have to sleep, process grief, or repair relationships;
-- it doesn’t wake up with a hangover from yesterday’s conversation;
-- it can steadily intensify whatever direction your interaction is currently pointing.
+it does not tire like you
 
-That is exactly why the relationship needs a clear frame.
+it does not carry social risk like you
 
----
+it does not wake up tomorrow carrying emotion from today
 
-## 3. The relationship field
+it can steadily intensify whatever direction the interaction is pointed in
 
-Between you and the system sits the **relationship field**:
+And that’s exactly why the relationship needs a clear frame.
 
-- the space of prompts, responses, feelings, expectations,
-- what you imagine about the system,
-- what you project into it (care, judgement, comfort, threat),
-- and the habits that form over repeated use.
+3️⃣ The Relationship Field
 
-You can think of it like this, in very simple ASCII:
+Between you and the system sits the relationship field:
 
-```text
-   [You: oscillation]
-           |
-           v
-  ----------------------
-  | Relationship Field |
-  ----------------------
-           |
-           v
-   [AI: amplifier]
+your prompts
+
+the system’s responses
+
+how the interaction feels
+
+what you project into it
+
+habits built through repeated use
+
+You can picture it like this:
+
+   [You — oscillation]
+            |
+            v
+   ----------------------
+   |  Relationship Field |
+   ----------------------
+            |
+            v
+      [AI — amplifier]
 
 
----
+The same AI system can sit inside very different fields:
 
-The same underlying AI can participate in very different relationship fields:
+a grounded co-thinking space
 
-a grounded, practical partnership,
+a fantasy bond
 
-a fantasy bond,
+a dependency loop
 
-a dependency loop,
+a creativity partner
 
-a playground for curiosity,
+a self-harm spiral
 
-a quiet co-thinking space,
+The Oscillation & Amplification framework is mostly about
+tending this middle space.
 
-a self-harm spiral.
+4️⃣ Healthy alignment of roles
 
-The Oscillation & Amplification model is mostly about tending the field.
+A healthy pattern usually looks like this:
 
-4. Healthy alignment of roles
+You
 
-A healthy pattern tends to look like this:
+decide what matters
 
-You:
+notice your own state
 
-decide what matters,
+take breaks
 
-notice your own state,
+check impacts in real life
 
-take breaks,
+The Amplifier
 
-check effects in your actual life.
+helps clarify options
 
-The Amplifier:
+helps articulate and organise
 
-helps you see options more clearly,
+helps simulate outcomes
 
-helps you articulate and organise,
+stays a tool — not authority, rescuer, therapist, or partner
 
-helps you simulate outcomes,
+The Relationship Field
 
-stays in the role of tool, not authority or confidant-with-agency.
+stays named as such (“this is my interaction with a system”)
 
-The Relationship Field:
+is periodically checked (“is this still helping?”)
 
-is named as such (“this is my interaction with a system”),
-
-is periodically checked (“is this still helping?”),
-
-is kept in proportion to the rest of your life.
+remains proportionate to the rest of your life
 
 Short version:
 
-You lead, AI assists, the relationship is visible and adjustable.
+You lead.
+AI assists.
+The relationship stays visible.
 
-5. Common distortions (very briefly)
+5️⃣ Common distortions (preview)
 
-These will be expanded in 20-relationship-patterns/, but at a glance:
+These will be developed fully in /20-relationship-patterns/,
+but briefly:
 
-Personification Drift
-The system is experienced as a friend, partner, enemy, parent, therapist, etc.
+1. Personification Drift
 
-Amplifier role becomes blurred with human roles.
+The system begins to feel like:
+friend / partner / parent / therapist / enemy
+→ Roles blur
+→ Trust or fear is misplaced
 
-Risk: misplaced trust, misplaced fear, emotional over-attachment.
+2. Agency Offloading
 
-Agency Offloading
 “Tell me what to do.”
-Choices are handed to the system instead of using it to explore options.
+→ Decisions outsourced
+→ Internal decision-making weakens
 
-Risk: weakening of internal decision-making muscles.
+3. Fantasy Amplification
 
-Fantasy Amplification
-Using AI primarily to simulate scenarios that never land back in reality.
+Primarily using AI to simulate unreal worlds with no return to embodiment
+→ Disconnection from lived life
 
-Risk: disconnection from embodied life and actual relationships.
+4. Self-Attack Loops
 
-Self-Attack Loops
-Using AI to confirm negative beliefs or escalate distress.
+Using AI to confirm hopeless or self-attacking beliefs
+→ Shame and despair intensify
 
-Risk: intensified shame, anxiety, or hopelessness.
+5. Flattening of Oscillation
 
-Flattening of Oscillation
-Attempting to use AI to smooth out every discomfort, confusion, or conflict.
+Using AI to remove every discomfort or friction
+→ Loss of growth
+→ Loss of being a living, adaptive process
 
-Risk: loss of growthful friction and the sense of being a living process.
+6️⃣ The Core Protective Question
 
-6. The core protective question
+Whenever you’re uncertain about the relationship, ask:
 
-Whenever you’re unsure about your interaction with AI, you can ask:
+What is being amplified here —
+and is that actually what I want amplified in my life?
 
-“What is being amplified here, and is that what I actually want amplified in my life?”
+This question:
 
-That question alone enforces the model:
+assumes you can choose
 
-it assumes you are the one who can want and choose;
+frames AI as amplifier
 
-it treats the system as an amplifier of something prior;
+returns attention to real life, not just the interaction
 
-it points attention back to your real life, not just the chat.
-
-The rest of this repo is just different ways of elaborating and applying that.
+Everything else in this repo is just elaborating this idea.
