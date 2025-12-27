@@ -60,6 +60,8 @@ Between you and the system sits the relationship field:
 
 You can picture it like this:
 
+```
+
 [You (oscillation)]
         |
         v
@@ -69,6 +71,8 @@ You can picture it like this:
         |
         v
 [AI (amplifier)]
+
+```
 
 The same underlying AI can participate in very different relationship fields:
 
