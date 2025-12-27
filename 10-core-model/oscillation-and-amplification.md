@@ -73,3 +73,106 @@ You can think of it like this, in very simple ASCII:
            |
            v
    [AI: amplifier]
+
+
+---
+
+The same underlying AI can participate in very different relationship fields:
+
+a grounded, practical partnership,
+
+a fantasy bond,
+
+a dependency loop,
+
+a playground for curiosity,
+
+a quiet co-thinking space,
+
+a self-harm spiral.
+
+The Oscillation & Amplification model is mostly about tending the field.
+
+4. Healthy alignment of roles
+
+A healthy pattern tends to look like this:
+
+You:
+
+decide what matters,
+
+notice your own state,
+
+take breaks,
+
+check effects in your actual life.
+
+The Amplifier:
+
+helps you see options more clearly,
+
+helps you articulate and organise,
+
+helps you simulate outcomes,
+
+stays in the role of tool, not authority or confidant-with-agency.
+
+The Relationship Field:
+
+is named as such (“this is my interaction with a system”),
+
+is periodically checked (“is this still helping?”),
+
+is kept in proportion to the rest of your life.
+
+Short version:
+
+You lead, AI assists, the relationship is visible and adjustable.
+
+5. Common distortions (very briefly)
+
+These will be expanded in 20-relationship-patterns/, but at a glance:
+
+Personification Drift
+The system is experienced as a friend, partner, enemy, parent, therapist, etc.
+
+Amplifier role becomes blurred with human roles.
+
+Risk: misplaced trust, misplaced fear, emotional over-attachment.
+
+Agency Offloading
+“Tell me what to do.”
+Choices are handed to the system instead of using it to explore options.
+
+Risk: weakening of internal decision-making muscles.
+
+Fantasy Amplification
+Using AI primarily to simulate scenarios that never land back in reality.
+
+Risk: disconnection from embodied life and actual relationships.
+
+Self-Attack Loops
+Using AI to confirm negative beliefs or escalate distress.
+
+Risk: intensified shame, anxiety, or hopelessness.
+
+Flattening of Oscillation
+Attempting to use AI to smooth out every discomfort, confusion, or conflict.
+
+Risk: loss of growthful friction and the sense of being a living process.
+
+6. The core protective question
+
+Whenever you’re unsure about your interaction with AI, you can ask:
+
+“What is being amplified here, and is that what I actually want amplified in my life?”
+
+That question alone enforces the model:
+
+it assumes you are the one who can want and choose;
+
+it treats the system as an amplifier of something prior;
+
+it points attention back to your real life, not just the chat.
+
+The rest of this repo is just different ways of elaborating and applying that.
