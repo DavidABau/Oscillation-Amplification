@@ -86,5 +86,6 @@ If you’re a builder:
 ## License
 
 See `LICENSE.md` for details.  
-In short: this is meant to be **used, adapted, and built on**, with care not to use it for manipulative or harmful systems.
+For the full legal text, see:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
