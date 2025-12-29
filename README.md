@@ -81,9 +81,9 @@ The **Oscillation & Amplification** frame says: keep those roles clear. Let AI b
 
 If you’re just visiting:
 
-1. Read `00-front-door/quick-start.md`  
-2. Skim `10-core-model/oscillation-and-amplification.md`  
-3. Jump to `30-practices-for-humans/everyday-checklist.md` once it’s ready.
+1. [Read `00-front-door/quick-start.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/00-front-door/quick-start.md)
+2. [Skim `10-core-model/oscillation-and-amplification.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/10-core-model/oscillation-and-amplification.md) 
+3. [Jump to `30-practices-for-humans/everyday-checklist.md` once it’s ready.](https://github.com/DavidABau/Oscillation-Amplification/blob/main/30-practices-for-humans/everyday-checklist.md)
 
 If you’re a builder:
 
@@ -98,6 +98,4 @@ For the full legal text, see:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 ---
-
-[Start here: quick start](https://github.com/DavidABau/Oscillation-Amplification/blob/main/00-front-door/quick-start.md)
 
