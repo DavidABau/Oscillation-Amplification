@@ -99,3 +99,15 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 ---
 
+Relationship to Cognitive Field Architecture (CFA)
+
+Oscillation & Amplification (O&A) explores the relationship between human cognition and AI, particularly how AI can amplify, stabilise, distort, or entrain human cognitive fields.
+This work is built on the Cognitive Field Architecture, which explains how awareness moves across emotional, rational, and perceptual planes, and how stability or fragility emerges.
+
+CFA → how human awareness functions
+
+O&A → how AI interacts with that awareness
+
+[Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
+
+---
