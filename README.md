@@ -1,3 +1,7 @@
+For a broader understanding of how this work fits into the wider framework of related projects, see the Orientation to the Corpus [(link)](https://davidabau.github.io/Human-AI-Coherence-Corpus/)
+
+---
+
 # Oscillation & Amplification  
 ### A Humane Framework for Human–AI Relationship
 
