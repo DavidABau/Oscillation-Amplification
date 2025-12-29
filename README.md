@@ -83,11 +83,11 @@ If you’re just visiting:
 
 1. [Read `00-front-door/quick-start.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/00-front-door/quick-start.md)
 2. [Skim `10-core-model/oscillation-and-amplification.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/10-core-model/oscillation-and-amplification.md) 
-3. [Jump to `30-practices-for-humans/everyday-checklist.md` once it’s ready.](https://github.com/DavidABau/Oscillation-Amplification/blob/main/30-practices-for-humans/everyday-checklist.md)
+3. [Jump to `30-practices-for-humans/everyday-checklist.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/30-practices-for-humans/everyday-checklist.md)
 
 If you’re a builder:
 
-- Pair the above with `40-notes-for-builders/adaptive-interaction-scaffolding.md` once that file is in place.
+- [Pair the above with `40-notes-for-builders/adaptive-interaction-scaffolding.md'](https://github.com/DavidABau/Oscillation-Amplification/blob/main/40-notes-for-builders/adaptive-interaction-scaffolding.md)
 
 ---
 
