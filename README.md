@@ -97,3 +97,7 @@ See `LICENSE.md` for details.
 For the full legal text, see:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
+---
+
+[Start here: quick start](https://github.com/DavidABau/Oscillation-Amplification/blob/main/00-front-door/quick-start.md)
+
