@@ -66,21 +66,6 @@ The **Oscillation & Amplification** frame says: keep those roles clear. Let AI b
 
 ---
 
-## Repo layout
-
-- `00-front-door/` – Quick start, overview diagrams, and entry points.
-- `10-core-model/` – The conceptual backbone:
-  - human oscillation,
-  - AI as steady-state amplifier,
-  - the shared “relationship field”.
-- `20-relationship-patterns/` – Healthy and unhealthy ways of relating to AI.
-- `30-practices-for-humans/` – Checklists, prompts, and small rituals for staying grounded.
-- `40-notes-for-builders/` – Design notes and patterns for humane AI systems.
-- `90-glossary/` – Definitions of key terms.
-- `99-meta/` – Changelog, roadmap, and meta-notes.
-
----
-
 ## How to start
 
 If you’re just visiting:
