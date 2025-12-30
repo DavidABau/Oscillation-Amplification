@@ -85,12 +85,12 @@ You can treat these as a draft “house code” for using AI.
 ## 6. Where to go next
 
 - For the underlying model, read:  
-  `10-core-model/oscillation-and-amplification.md`
+  [`10-core-model/oscillation-and-amplification.md`](https://github.com/DavidABau/Oscillation-Amplification/blob/main/10-core-model/oscillation-and-amplification.md)
 
 - For common relationship patterns (good and bad), see:  
-  `20-relationship-patterns/`
+  [`20-relationship-patterns/`](https://github.com/DavidABau/Oscillation-Amplification/tree/main/20-relationship-patterns)
 
 - For concrete daily practices, check:  
-  `30-practices-for-humans/everyday-checklist.md` *(once written)*
+  [`30-practices-for-humans/everyday-checklist.md` *(once written)*](https://github.com/DavidABau/Oscillation-Amplification/blob/main/30-practices-for-humans/everyday-checklist.md)
 
 You don’t have to read the repo in order. Come back to this file any time you feel the relationship with AI is getting blurry or heavy.
