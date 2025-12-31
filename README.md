@@ -101,4 +101,6 @@ O&A → how AI interacts with that awareness
 
 ---
 
+A grounded guide to common AI misunderstandings
+
 [AI Myths and Reality](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/ai-myths-and-reality.md)
