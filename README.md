@@ -100,3 +100,5 @@ O&A → how AI interacts with that awareness
 [Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
 
 ---
+
+[AI Myths and Reality](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/ai-myths-and-reality.md)
