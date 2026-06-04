@@ -18,12 +18,6 @@ This framework is about one question:
 
 ---
 
-O&A in one glance: AI amplifies human cognitive signals—coherent input strengthens clarity, incoherent input amplifies distortion.
-
-![O&A image](https://github.com/DavidABau/Oscillation-Amplification/blob/main/O%2BAimage.png)
-
----
-
 ## Who this is for
 
 - People using AI in everyday life who don’t want to lose their own centre.
